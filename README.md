@@ -14,14 +14,22 @@ Android developer
 
 ---
 
-### :cat2: Stats
-<table>
-  <tr>
-    <td valign=top>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@GlebikGlebik&layout=donut&langs_count=8&title_color=9966ff" />
-    </td>
-    <td valign=top>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@GlebikGlebik&layout=compact&langs_count=10&title_color=9966ff" />
-    </td>
-  </tr>
-</table>
+### Top Repositories
+
+<div style="display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <a href="https://github.com/GlebikGlebik/MTS-">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlebikGlebik&repo=MTS-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 80%;" />
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <a href="https://github.com/GlebikGlebik/DevOps_labs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlebikGlebik&repo=DevOps_labs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 80%;" />
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <a href="https://github.com/GlebikGlebik/AaDS----2sem-">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlebikGlebik&repo=AaDS----2sem-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 80%;" />
+    </a>
+  </div>
+</div>
