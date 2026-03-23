@@ -1,4 +1,4 @@
-## hi :cookie: I'm Degtiar Gleb
+## hi :hedgehog: I'm Degtiar Gleb
 Android developer
 <div id="badges">
   <a href="https://t.me/Gleb_si">
