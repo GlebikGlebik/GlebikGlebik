@@ -7,11 +7,8 @@
   </a>
 </div>
 
-<h2 align="center" style="margin-top: 40px; margin-bottom: 28px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  
-<h2 align="center" style="margin-top: 40px; margin-bottom: 28px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Languages and Tools
-</h2>
+<h2 align="center" style="margin-top: 40px; margin-bottom: 28px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"/>Languages and Tools</h2>
+
 <p align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-bottom: 40px;">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="48" height="48" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="48" height="48" /></a>
@@ -21,4 +18,14 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="48" height="48" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="48" height="48" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="48" height="48" /></a>
+</p>
+
+<h2 align="center" style="margin-top: 40px; margin-bottom: 28px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"/>My stats</h2>
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlebikGlebik&theme=holi&animation=sequence" alt="Profile Details" style="max-width: 100%; width: 800px; height: auto;" />
+</p>
+
+<p align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-bottom: 40px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlebikGlebik&theme=holi&animation=sequence" alt="Repos per Language" style="max-width: 48%; min-width: 300px; height: auto;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlebikGlebik&theme=holi&animation=sequence" alt="Stats" style="max-width: 48%; min-width: 300px; height: auto;" />
 </p>
